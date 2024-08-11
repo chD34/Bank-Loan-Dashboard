@@ -9,3 +9,7 @@ Planned Technologies: Python, PostgreSQL, Tableau
    Data: financial_loan.csv
    
    Python-file: main.py
+
+2. Calculated KPI`s using PostgreSQL queries (look Bank Loan Report Query Document.docx )
+   
+   In process...
