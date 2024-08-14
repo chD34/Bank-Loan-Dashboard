@@ -14,6 +14,8 @@ Planned Technologies: Python, PostgreSQL, Tableau
    
    Added SQL-file (Queries Bank Loan.sql)
 
-3. Created Tableau Dashboard
+3. Connected to Postgres server by installing driver for Tableau
+
+4. Created Tableau Dashboard
    
    In process...
