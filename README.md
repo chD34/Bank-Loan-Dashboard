@@ -15,6 +15,8 @@ Planned Technologies: Python, PostgreSQL, Tableau
    Added SQL-file (Queries Bank Loan.sql)
 
 3. Connected to Postgres server by installing driver for Tableau
+   
+   To do that you need:
 
 ![image](https://github.com/user-attachments/assets/87e26df8-4857-46ec-86fe-76e64f32bed9)
 
