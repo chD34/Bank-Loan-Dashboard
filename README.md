@@ -1,4 +1,4 @@
-# Preparation for future Dashboard
+# Bank Loan Dashboard
 
 Planned Technologies: Python, PostgreSQL, Tableau
 
