@@ -16,6 +16,9 @@ Planned Technologies: Python, PostgreSQL, Tableau
 
 3. Connected to Postgres server by installing driver for Tableau
 
+![image](https://github.com/user-attachments/assets/87e26df8-4857-46ec-86fe-76e64f32bed9)
+
+
 4. Created Tableau Dashboard
    
    In process...
