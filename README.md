@@ -12,4 +12,8 @@ Planned Technologies: Python, PostgreSQL, Tableau
 
 2. Calculated KPI`s using PostgreSQL queries (look Bank Loan Report Query Document.docx )
    
+   Added SQL-file (Queries Bank Loan.sql)
+
+3. Created Tableau Dashboard
+   
    In process...
