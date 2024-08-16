@@ -28,4 +28,4 @@ Tableau-file: Bank Loan.twb
 ![image](https://github.com/user-attachments/assets/b9ae653e-f18a-4015-a498-a72e07528481)
 ![image](https://github.com/user-attachments/assets/5dede12e-7e98-481e-bf61-90c47c163668)
 
-Idea got from: https://www.youtube.com/watch?v=7S5vkJVuaHc&t=7375s
+Implemented according to the tutorial: https://www.youtube.com/watch?v=7S5vkJVuaHc&t=7375s
